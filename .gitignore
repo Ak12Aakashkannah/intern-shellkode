@@ -1,0 +1,18 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# SQLite databases (optional - remove if you want to track .db files)
+# *.db
+
+# Qodo
+.qodo/
